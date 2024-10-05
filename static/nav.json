@@ -1,7 +1,7 @@
 [{
 	"_id": "ruanjian",
 	"classify": "软件·社区",
-	"icon": "ti-download",
+	"icon": "ti-fa-heart",
 	"sites": [{
 		"name": "520解说",
 		"href": "https://www.youtube.com/@LRH520",
