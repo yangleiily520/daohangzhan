@@ -1,7 +1,7 @@
 [{
 	"_id": "ruanjian",
 	"classify": "常用网站",
-	"icon": "ti-download",
+	"icon": "ti-wordpress",
 	"sites": [{
 		"name": "cloudflare",
 		"href": "https://www.cloudflare-cn.com/",
