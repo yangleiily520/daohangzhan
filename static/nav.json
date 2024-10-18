@@ -414,8 +414,8 @@
 	"icon": "ti-medall-alt",
 	"sites": [{
 		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+		"href": "https://www.youtube.com/watch?v=JsnPD4rvj9c",
+		"desc": "K利用CloudFlare十分钟搭建一个导航站，轻量，美观，实用，稳定！ - YouTube",
+		"logo": "static/icons/1youtube.ico"
 	}]
 }]
